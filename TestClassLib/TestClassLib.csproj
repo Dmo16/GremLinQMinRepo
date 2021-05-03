@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="ExRam.Gremlinq.Core.AspNet" Version="8.5.0" />
+      <PackageReference Include="ExRam.Gremlinq.Providers.CosmosDb" Version="8.5.0" />
+    </ItemGroup>
+
+</Project>
